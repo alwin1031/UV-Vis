@@ -4,5 +4,5 @@
   <li><code>conc.py</code>: Output Abs280 value in terminal.
 </ul>
 <p>
-  <img src="conc.png" width="400px">
+  <img src="210928_HEBR_50x.png" width="400px">
 </p>
